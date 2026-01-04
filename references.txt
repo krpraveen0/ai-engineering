@@ -1,0 +1,5 @@
+1. http://103.203.175.90:81/fdScript/RootOfEBooks/E%20Book%20collection%20-%202025%20-%20C/CSE%20%20IT%20AIDS%20ML/Building_Agentic_AI_Systems_Create_intelligent,_autonomous_AI_agents.pdf
+2. https://github.com/chiphuyen/aie-book
+3. https://konverge.ai/pdf/Ebook-Agentic-AI.pdf
+4. https://github.com/sarwarbeing-ai/Agentic_Design_Patterns/blob/main/Agentic_Design_Patterns.pdf
+5. 

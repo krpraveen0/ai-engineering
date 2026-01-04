@@ -83,6 +83,7 @@ Use this branch to:
 
 * Understand the **full curriculum map**
 * See week-by-week structure
+* read the references.txt file for resources and content planning for the topic. It contains links for different books understand those and keep in mind for content cretion for the curriculum. 
 * Read instructions before coding
 
 ---
